@@ -1,0 +1,5 @@
+x=input("enter the value :")
+float(x)
+print(x)
+y=float(input("enter another value :"))
+print(y)
